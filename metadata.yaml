@@ -1,0 +1,27 @@
+_repo: Standards-of-Life-and-Service_26652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Thomas Henry
+    alias: Howard, T. H.
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '32152'
+    url: http://www.gutenberg.org/2009/agents/32152
+description: ''
+gutenberg_issued: '2008-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salvation Army -- Doctrines'
+- !lcc 'BX'
+title: Standards of Life and Service
+url: http://www.gutenberg.org/ebooks/26652
